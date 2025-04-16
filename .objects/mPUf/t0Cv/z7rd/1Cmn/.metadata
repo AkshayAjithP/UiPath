@@ -1,0 +1,14 @@
+﻿{
+  "Name": "WI2(2)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "1CmnGOhRTkeQYO4EHVgoxw",
+  "Reference": "bwrNvnaKnUqOeom4SPSr-g/1CmnGOhRTkeQYO4EHVgoxw",
+  "ParentRef": "bwrNvnaKnUqOeom4SPSr-g/z7rd-ixTw0CdXSj-1LAN-g",
+  "Created": "2025-03-26T11:32:01.1394178Z",
+  "Updated": "2025-03-26T11:32:01.1394178Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

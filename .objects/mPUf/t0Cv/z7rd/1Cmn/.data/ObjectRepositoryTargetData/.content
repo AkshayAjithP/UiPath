@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fvRx2Wwq7ESI8aQYSOpdDg" Reference="bwrNvnaKnUqOeom4SPSr-g/1CmnGOhRTkeQYO4EHVgoxw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items" CVScreenId="68a47e7f-003f-431c-ac9e-91b684819182" CvTextArea="1152, 534, 27, 13" CvTextArgument="WI2" CvType="Text" DesignTimeRectangle="1125, 522, 82, 39" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl isleaf='1' type='' class='' tag='TD' aaname='{0}' check:innerText='WI2' /&gt;&quot;, CurrentLabel_1)]" Guid="e037c05d-89c3-428a-9c3c-8eaa4652b7ab" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="68a47e7f-003f-431c-ac9e-91b684819182" DesignTimeRectangle="616, 534, 72, 13" ElementType="Text" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl isleaf='1' type='' tag='TD' class='' aaname='{0}' check:innerText='' /&gt;&quot;, CurrentLabel_1)]" Guid="cec0ac0d-ac32-47a4-9f13-d1d26ba7a648" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e771e1ce45a29162981e1798d597fc5a.png" xmlns="">0A8AD0xhfVUut7R_Gpu2abw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="CurrentLabel_1" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
